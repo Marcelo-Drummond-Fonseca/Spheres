@@ -1,6 +1,4 @@
 document.body.onload = function(){
-	alert("hello");
-	
 	var buttons = document.createElement("div");
 	buttons.className = "container";
 	
